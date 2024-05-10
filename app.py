@@ -169,7 +169,7 @@ def main():
                 <p>Use this app as a tool for early detection and prevention of heart disease.</p>
                 <h3>How to use app</h3>
                 <ul>
-                    <li>If you are new user, you have to sign up to be able to use App. To sign up you need to enter a username and password, the password has to be confirmed</li>
+                    <li>If you are new user, you have to sign up to be able to use App. First click the side arrow pointing to the right at the top left conner of the app.To sign up you need to enter a username and password, the password has to be confirmed</li>
                     <li>After signing up, you will need to log in with your password and username</li>
                     <li>After you successfully log in, you can interact with the app.</li>
                     <li>To get your Heart Disease Assessment, Click the "Choose The Action You Wish To Perform" dropdown and select Early Heart Disease Diagnosis</li>
