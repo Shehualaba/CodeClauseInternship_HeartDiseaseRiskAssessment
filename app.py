@@ -269,17 +269,6 @@ def main():
 
                     # Causes
                     st.header("Causes:")
-                    st.write(
-                        "Heart disease can develop due to various factors, including:\n"
-                        "1. **Lifestyle Choices**\n"
-                        "2. **Medical Conditions**\n"
-                        "3. **Genetics**\n"
-                        "4. **Age and Gender**\n"
-                        "5. **Other Factors**\n"
-                    )
-                    st.markdown("---")
-                    # Causes
-                    st.header("Causes:")
                     st.markdown(
                             "Heart disease can develop due to various factors, including:\n"
                             "1. **Lifestyle Choices**\n"
